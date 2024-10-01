@@ -1,0 +1,18 @@
+config.py
+session_data
+static/help.html
+
+# virtualenv
+env
+
+# IDE settings
+*.sublime-*
+
+# Other
+trial-cache
+patient-photos
+*.pyc
+__pycache__
+.sass-cache
+.DS_Store
+
