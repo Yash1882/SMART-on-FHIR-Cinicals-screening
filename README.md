@@ -2,9 +2,8 @@ Clinical Trials App
 ===================
 
 A Python 3/Flask web app that screens a patient's eligibility for certain clinical trials.
-Retrieves patient data via a [SMART on FHIR][smart] API and trial data via [TrialReach's][trialreachapi] trial API, which enhances trial data registered on [ClinicalTrials.gov][ctg].
+Retrieves patient data via a [SMART on FHIR][smart] API and trial data via [TrialReach's][trialreachapi] trial API.
 
-This work is [Apache 2 licensed](./LICENSE.txt).
 
 [trialreachapi]: http://developer.trialreach.com
 [ctg]: http://www.clinicaltrials.gov
@@ -90,5 +89,4 @@ This can be exploited when running on Heroku, all configuration variables can be
 
 [flask]: http://flask.pocoo.org
 [mongodb]: http://www.mongodb.org
-# SMART-on-FHIR-Clinical-Screening
 # SMART-on-FHIR-Clinical-Screening
